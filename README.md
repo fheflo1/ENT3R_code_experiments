@@ -17,5 +17,6 @@ pip install -r requirements.txt
 ```
 
 ### Run in terminal:
-
+```bash
 streamlit run sinus_app.py
+```
