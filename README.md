@@ -1,5 +1,7 @@
 ## Sinus Frequency Sound App
 
+### Run in terminal:
+
 Create and activate a virtual environment and install requirements:
 
 ```bash
@@ -16,7 +18,8 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Run in terminal:
+Activate app:
+
 ```bash
 streamlit run sinus_app.py
 ```
